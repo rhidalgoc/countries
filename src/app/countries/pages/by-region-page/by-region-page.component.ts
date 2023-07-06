@@ -9,6 +9,9 @@ import { Region } from '../../interfaces/region.type';
   templateUrl: './by-region-page.component.html',
   styles: [
     `
+    button{
+      font-size:13px;
+    }
     hr{
       max-width:400px;
     }

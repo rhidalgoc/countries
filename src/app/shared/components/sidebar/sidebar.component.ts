@@ -5,6 +5,9 @@ import { Component } from '@angular/core';
   templateUrl: './sidebar.component.html',
   styles: [
     `
+    li{
+      font-size:12px
+    }
     hr{
       max-width:400px;
     }
