@@ -1,8 +1,10 @@
 <!--(keyup.enter)="emitValue(txtInput.value)"-->
-<input
-type="text"
-class="form-control inbox"
-[value]="initialValue"
-[placeholder]=placeholder
-(keyup) = "onKeyPress(txtInput.value)"
-#txtInput>
+<div class="container">
+    <input
+    type="text"
+    class="form-control inbox"
+    [value]="initialValue"
+    [placeholder]=placeholder
+    (keyup) = "onKeyPress(txtInput.value)"
+    #txtInput>
+</div>

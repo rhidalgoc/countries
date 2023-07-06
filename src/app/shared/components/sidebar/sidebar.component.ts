@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styles: [
     `
     li{
-      font-size:12px
+      font-size:13px
     }
     hr{
       max-width:400px;
