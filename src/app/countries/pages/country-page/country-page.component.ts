@@ -8,6 +8,11 @@ import { Country } from '../../interfaces/country.interface';
   selector: 'app-country-page',
   templateUrl: './country-page.component.html',
   styles: [
+    `
+    .container{
+      padding-left:20px;
+    }
+    `
   ]
 })
 export class CountryPageComponent implements OnInit {
