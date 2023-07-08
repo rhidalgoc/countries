@@ -6,7 +6,10 @@ import { Subject, Subscription, debounceTime } from 'rxjs';
   templateUrl: './search-box.component.html',
   styles: [
     `.inbox{
-      max-width:300px;
+      width:200px;
+    }
+    .container{
+      padding-left:20px
     }
     `
   ]

@@ -8,7 +8,8 @@ import { CountriesService } from '../../services/countries.service';
   styles: [
     `
     hr{
-      max-width:400px;
+      max-width:250px;
+      padding-left:20px;
     }
     `
   ]

@@ -13,7 +13,7 @@ import { Region } from '../../interfaces/region.type';
       font-size:13px;
     }
     hr{
-      max-width:400px;
+      max-width:250px;
     }
     `
   ]

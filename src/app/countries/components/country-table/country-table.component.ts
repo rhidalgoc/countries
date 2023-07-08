@@ -6,11 +6,14 @@ import { Country } from '../../interfaces/country.interface';
   templateUrl: './country-table.component.html',
   styles: [
     `img{
-      width:27px;
-    }
+      width:25px;
+    }  
     .tabla{
       font-size:12px;
-      width:200px;
+      width:250px;
+    }
+    .container{
+      padding-left:20px;
     }
     `
   ]

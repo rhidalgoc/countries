@@ -8,7 +8,7 @@ import { Country } from '../../interfaces/country.interface';
   styles: [
     `
     hr{
-      max-width:400px;
+      width:250px;
     }
     `
   ]
